@@ -32,3 +32,5 @@ Team Epic Nodes will focus on developing a blockchain application to manage mass
 Denika McPherson, RN, BScN, CNCC(C), MN-NP PHC Student (Ontario) - denika.mcp@gmail.com
 
 **Jenna Cody**, Sr. Statistician (New Jersey) - jennacody94@gmail.com
+
+**Wendy Pelton**, MSN, RN, CPAN (Virginia Beach) - wkpelton@gmail.com
